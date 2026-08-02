@@ -1,0 +1,17 @@
+public class UnaryOperators {
+    public static void main(String[] args) {
+
+        int number = 5;
+
+        System.out.println("Original: " + number);
+        System.out.println("Post Increment: " + (number++));
+        System.out.println("After Post Increment: " + number);
+
+        System.out.println("Pre Increment: " + (++number));
+
+        System.out.println("Post Decrement: " + (number--));
+        System.out.println("After Post Decrement: " + number);
+
+        System.out.println("Pre Decrement: " + (--number));
+    }
+}
