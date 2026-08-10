@@ -13,5 +13,3 @@ This repository contains my Java Fundamentals learning journey with well-structu
 - Arrays
 
 More topics will be added as I continue learning Java
-
-🚀 Happy Coding!
