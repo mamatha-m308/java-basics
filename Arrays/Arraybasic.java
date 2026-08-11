@@ -14,7 +14,6 @@ public static void main(String[] args) {
 		System.out.print(arr[i]);
 	}
 System.out.println("");
-
 //access array element
 System.out.println(arr[3]);
 
@@ -24,7 +23,6 @@ arr[0]=99;
 
 //another ways of print the output
 System.out.println(Arrays.toString(arr));
-
 
 for(int num:arr) {
 	System.out.print(num);
