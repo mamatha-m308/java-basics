@@ -18,7 +18,7 @@ System.out.println("");
 //access array element
 System.out.println(arr[3]);
 
-//update array element
+//update array element using index
 arr[0]=99;
 
 
