@@ -1,6 +1,3 @@
-
-import java.util.Arrays;
-
 public class mineleinarray {
 public static void main(String[] args) {
 	int[] nums={43,32,54,75,12,-45,11};
