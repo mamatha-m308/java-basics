@@ -5,8 +5,7 @@ public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
 	
 	//Syntax 
-	ArrayList<Integer> list=new ArrayList<>();
-	
+	ArrayList<Integer> list=new ArrayList<>();	
 	list.add(27);
 	list.add(32);
 	list.add(54);
