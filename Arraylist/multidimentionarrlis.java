@@ -1,4 +1,4 @@
-public class multidimentionarrlist {
+ public class multidimentionarrlist {
 public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
 	ArrayList<ArrayList<Integer>> list=new ArrayList<>();	
