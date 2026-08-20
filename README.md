@@ -10,6 +10,6 @@ This repository contains my Java Fundamentals learning journey with well-structu
 - Control Statements
 - Loops
 - Methods/Functions
-- Arrays
+- Arrays 
 
 
