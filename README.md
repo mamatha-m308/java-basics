@@ -4,7 +4,7 @@ This repository contains my Java Fundamentals learning journey with well-structu
 
 ## 📚 Topics Covered
 - Introduction
-- Variables & Data Types
+- Variables & Data Types 
 - Operators
 - User Input
 - Control Statements
