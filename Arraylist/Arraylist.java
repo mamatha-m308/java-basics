@@ -1,4 +1,4 @@
-  //we use array list when we don't know the size of an array
+   //we use array list when we don't know the size of an array
 public class Arraylist {
 public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
