@@ -1,7 +1,7 @@
 public class Arraybasic{
 public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
-	int[] arr=new int[5]; //defining array
+ 	int[] arr=new int[5]; //defining array
 	String[] names= {"mamatha","spoorthi","hema"};
 	
 	System.out.println("enter array element");
